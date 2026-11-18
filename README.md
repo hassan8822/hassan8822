@@ -1,8 +1,14 @@
-<div align="center">
+<div data-importer="image" align="center">
+  <img data-importer="image" height="150" src=""  />
+</div>
 
-<img src="https://avatars.githubusercontent.com/u/218433193?s=96&v=4" width="150" height="150" style="border-radius: 50%;" />
+###
 
-<h1>Hi 👋, I'm Rakibul Hassan Rafi</h1>
+<div data-importer="socials" align="center">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+</div>
+
+<h1>hey there👋, I'm Rakibul Hassan Rafi</h1>
 
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=BSc+Student+in+ICE;Working+Towards+Becoming+a+Software+Engineer;Learning+Web+Development;Passionate+About+Problem+Solving" />
 
@@ -17,9 +23,9 @@
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
 </div>
 
-###
 
-<h1 data-importer="text" align="center">hey there 👋</h1>
+
+
 
 ###
 
