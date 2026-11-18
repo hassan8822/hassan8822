@@ -1,45 +1,37 @@
-<div data-importer="image" align="center">
-  <img data-importer="image" height="150" src=""  />
-</div>
+<div align="center">
 
-###
-
-<div data-importer="socials" align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-</div>
-
-<h1>hey there👋, I'm Rakibul Hassan Rafi</h1>
+<h1>Hey 👋 there!!</h1> <h2>This is Rakibul Hassan Rafi</h2>
 
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=BSc+Student+in+ICE;Working+Towards+Becoming+a+Software+Engineer;Learning+Web+Development;Passionate+About+Problem+Solving" />
 
+<a href="https://www.linkedin.com/in/rakibul-rafi-189339294/"> <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="25" /> </a>
+
 </div>
 
+## 👨‍💻 About Me
 
+I'm Rakibul Hassan Rafi, an Undergraduate Student in Information & Communication Engineering (ICE) from Bangladesh.
 
+🎓 Currently pursuing my Bachelor's degree at Rangpur Engineering College, affiliated with the University of Rajshahi.
 
+💻 Passionate about Software Development and Web Technologies.
+
+🚀 Currently learning Full-Stack Web Development.
+
+🌱 Continuously improving my programming and development skills.
+
+⚽ Football is my favorite sport.
+
+🎯 My goal is to become a Software Engineer and build meaningful software solutions.
+
+📫 Email: [abrouf664@gmail.com](mailto:abrouf664@gmail.com)
+
+🔗 GitHub: [hassan8822](https://github.com/hassan8822)
+
+🔗 LinkedIn: [Rakibul Hassan Rafi](https://www.linkedin.com/in/rakibul-rafi-189339294/)
 ###
 
-<div data-importer="socials" align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-</div>
-
-
-
-
-
-###
-
-<h3 data-importer="text" align="left">👩‍💻  About Me</h3>
-
-###
-
-<p data-importer="text" align="left">I'm Rakibul Hassan Rafi, an Undergraduate Student in Information & Communication Engineering (ICE) from Bangladesh <br><br>🎓 I'm currently pursuing my Bachelor's degree in Information & Communication Engineering at Rangpur Engineering College, affiliated with the University of Rajshahi.<br><br>💻 I'm passionate about Software Development and Web Technologies.<br><br>🚀 I'm currently learning Full-Stack Web Development through Programming Hero (Level 2).<br><br>🌱 I'm continuously improving my programming and development skills.<br><br>⚽ Football is my favorite sport.<br><br>🎯 My goal is to build a career in Software Engineering and develop meaningful software solutions.<br><br>📫 How to reach me: [abrouf664@gmail.com](mailto:abrouf664@gmail.com)<br><br>🔗 GitHub: [hassan8822](https://github.com/hassan8822)<br><br>🔗 LinkedIn: [Rakibul Hassan Rafi](https://www.linkedin.com/in/rakibul-rafi-189339294/)</p>
-
-###
-
-<h3 data-importer="text" align="left">🛠 Language and tools</h3>
-
-###
+## 🛠️ Languages and Tools
 
 <div data-importer="techs" align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash logo"  />
@@ -112,13 +104,15 @@
 
 
 
+## 📊 GitHub Statistics
 
-###
+<div align="center">
 
-<h3 data-importer="text" align="left">🔥   My Stats :<br><br><div align="center"><br><br><img src="https://github-readme-stats.vercel.app/api?username=hassan8822&show_icons=true&theme=tokyonight&rank_icon=default&custom_title=GitHub%20Stats" height="180"/><br><br><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hassan8822&layout=compact&theme=tokyonight&langs_count=6" height="180"/><br><br></div></h3>
+<img src="https://github-readme-stats.vercel.app/api?username=hassan8822&show_icons=true&theme=tokyonight&rank_icon=github&custom_title=GitHub%20Stats" height="180" />
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hassan8822&layout=compact&theme=tokyonight&langs_count=6" height="180" />
 
-
+</div>
 
 
 
